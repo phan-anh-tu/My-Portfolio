@@ -9,7 +9,7 @@ body {
   background: #ecf748;
   color: black;
   height: 150px;
-  padding: 2px;
+  padding: 2px 0px 0px 10px;
   position: relative;
   top: 0px;
   left: 0px;
@@ -19,14 +19,14 @@ body {
   background: #11d929;
   color: black;
   height: 200px;
-  padding: 2px 0px 0px 0px;
+  padding: 2px 0px 0px 10px;
   font-size: 18px;
   }
 .call-to-action {
   background: #f21b1b;
   color: black;
   height: 120px;
-  padding: 2px;
+  padding: 2px 0px 15px 0px;
   font-size: 18px;
   }
 .img {
